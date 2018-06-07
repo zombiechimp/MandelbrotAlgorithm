@@ -1,0 +1,2 @@
+# MandelbrotAlgorithm
+My Graphics homework 
